@@ -5,3 +5,5 @@ This repository is a space for experimenting with and learning about building Te
 The primary focus is on using the [Bubble Tea](https://github.com/charmbracelet/bubbletea) framework and other related components from [Charm](https://github.com/charmbracelet).
 
 The goal is to deepen understanding of both TUI development and the Go programming language in general.
+
+Finally, this repo is also a chance for me to get more accustomed to a neovim workflow.
